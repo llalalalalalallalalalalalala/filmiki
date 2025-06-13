@@ -6,5 +6,6 @@ const videoList = [
   { url: "https://mega.nz/file/CYV2yKQT#fod-U1RweZu13t_eO_iNVmIzqwljzCaXkEHwWwPX_Nk", alias: "Szept Serca" },
   { url: "https://mega.nz/file/uNNmnYxQ#19vSrCfIEiqKBvXqqWwhWPpTlYjG1yyRXWy7bzlLXfk", alias: "Narzeczona dla Kota" },
   { url: "https://mega.nz/file/eJkwVaQb#LhtDnVEDXUjm9IOBDxXSAwEsmxnDMlONXi94VVKm4MY", alias: "Mój sąsiad Totoro" },
-  { url: "https://mega.nz/file/qA8TCYjZ#j7ZaH8E0qmTh1MV9j4Zpgc-YFUet5SsqNGPgnf42lMk", alias: "Tajemniczy Świat Arietty" }
+  { url: "https://mega.nz/file/qA8TCYjZ#j7ZaH8E0qmTh1MV9j4Zpgc-YFUet5SsqNGPgnf42lMk", alias: "Tajemniczy Świat Arietty" },
+  { url: "https://mega.nz/file/uMkWSJLK#7GiSVUFcyjOUh4y8EfFhQX2c5HTQKgdZFzZ9Cf1U_xA", alias: "Ponyo" }
 ];
